@@ -26,3 +26,15 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+.fizz_wrapper {
+    background-color: greenyellow;
+}
+
+.buzz_wrapper {
+    background-color: yellow;
+}
+
+.fizzbuzz_wrapper {
+    background-color: red;
+}
