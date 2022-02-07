@@ -1,0 +1,14 @@
+main {
+    background-color: rgb(0, 55, 71);
+}
+
+#title {
+    color: white;
+    text-align: center;
+}
+
+.number_wrapper {
+    aspect-ratio: 1/1;
+    padding: 50px;
+    background-color: cornflowerblue;
+}
